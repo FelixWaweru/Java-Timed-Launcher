@@ -19,6 +19,8 @@ public class Boredom {
         //variables that will be used to create an infinite loop
         int i=0;
         int j=1;
+        //the format that the current date/time will be coverted to
+        //add yyyy/MM/dd to the HH:mm:ss to include year month and day
         DateFormat dateFormat = new SimpleDateFormat("HH:mm:ss");
         //infinite loop is instantiated
         while(i!=j){
