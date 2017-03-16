@@ -27,7 +27,7 @@ public class Boredom {
             //one second delay to countdown the time in seconds
             Thread.sleep(1000);
             //user defined countdown time
-            String bb="12:20:00";
+            String bb="12:49:00";
             //current time is recorded
             Date a= new Date();
             //date is converted into a string format similar to the one that is input by the user
